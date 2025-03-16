@@ -1,0 +1,10 @@
+{
+    "name": "dgladovich/woocommerce-event-ticket",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "^2.0"
+    },
+    "extra": {
+        "installer-name": "woocommerce-event-ticket"
+    }
+}
